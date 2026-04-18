@@ -1,43 +1,130 @@
 #!/bin/bash
-# --- DEFINIZIONE COLORI ---
+
+#==========================================
+#Network Recon Tool
+#Auteur: Loic
+#Description : Scanner de Reconnaissance reseau
+#==========================================
+
+#----Couleurs------
 VERT='\033[0;32m'
 ROUGE='\033[0;31m'
-NC='\033[0m' # No Color (Reset)
+JAUNE='\033[0;33m'
 RESET='\033[0m'
 
-echo "======== NETWORK RECON TOOL =======" |tee -a  rapport.txt
-printf "%-10s %s\n" "Date" "$(date)" | tee -a rapport.txt
+#____Fichiers______
+
+RAPPORT="rapport_$(date +%Y-%m-%d_%H-%M-%S).txt"
+CIBLES="cible.txt"
+
+#============================================
+#FONCTION
+#===========================================
+
+afficher_titre() {
+	echo "====================================="|tee -a "$RAPPORT"
+	echo "        NETWORK RECOOL TOOL          "|tee -a "$RAPPORT"
+	echo "====================================="|tee -a "$RAPPORT"
+	printf "%-10s %s\n" "Date:" "$(date)" |tee -a "$RAPPORT"
+	echo "*************************************"|tee -a "$RAPPORT"
+	echo " "
+
+}
+
+scanner_ping() {
+
+	if ping -c 1 "$1" > /dev/null 2>&1; then
+	printf "%-10s %b\n" "statut:" "${VERT}online ${RESET}" |tee -a "$RAPPORT"
+	return 0
+	else
+	printf "%-10s %b\n" "statut:" "${ROUGE}hors ligne${RESET}" |tee -a "$RAPPORT"
+	erreur=$((erreur +1))
+	return 1
+	fi
+}
+
+scanner_ip() {
+	if [ -z "$IP" ]; then
+	printf "%-10s %b\n" "ip:" "${ROUGE}INTROUVABLE${RESET}" |tee -a "$RAPPORT"
+	else
+	printf "%-10s %b\n" "ip:" "$IP" | tee -a "$RAPPORT"
+	ip_trouve=$((ip_trouve +1))
+	fi
+}
+
+reconnaissance_ip() {
+	if [[ "$1" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+	IP="$1"
+	else
+	IP=$(nslookup "$1" | grep "Address" | grep -v "#" | tail -2 | head -1 | awk '{print $2}')
+	fi
+}
+
+scanner_port() {
+	for port in 80 443 21 22 24 25; do
+	if nc -zw1 "$1" "$port" > /dev/null 2>&1; then
+	printf "%-10s %b\n" "port $port:" "${VERT}OUVERT${RESET}" |tee -a "$RAPPORT"
+	port_ouvert=$((port_ouvert + 1))
+	else 
+	printf "%-10s %b\n" "port $port:" "${ROUGE}FERMÉ${RESET}" |tee -a "$RAPPORT"
+	#port_ouvert=$((port_ouvert + 1))
+	fi
+	done
+}
+
+#=======≈====================================
+#VERIFICATION
+#============================================
+	if ! command -v nslookup > /dev/null 2>&1; then
+	echo "nslookup n'est pas installer" | tee -a "$RAPPORT"
+	exit 1
+	fi
+	if ! command -v  nc > /dev/null 2>&1; then
+	echo "nc n'est pas installer" | tee -a "$RAPPOR"T
+	fi
+
+#=============================================
+#COMPTEUR
+#=============================================
+total_cible=0
+ip_trouve=0
+port_ouvert=0
+erreur=0
+
+
+#=============================================
+#MAIN
+#=============================================
+afficher_titre
 
 while read cible; do
- 
-printf "%-10s %s\n" "Cible:" "$cible" | tee -a rapport.txt
 
-if ! command -v nslookup > /dev/null 2>&1; then #
-	echo "nslookup manquant - installe dnsutils"
-		exit 1
+total_cible=$((total_cible + 1))
+
+echo "----------------------------------------"
+printf "%-10s %b\n" "cible:" "${JAUNE}$cible${RESET}" |tee -a "$RAPPORT"
+echo "----------------------------------------"
+
+if scanner_ping "$cible"; then
+	scanner_ip "$cible";
+	reconnaissance_ip "$cible"
+	scanner_port "$IP";
 fi
 
-if  ping -c 1 "$cible" > /dev/null; then
-        printf "%-10s %b\n" "statut:" "${VERT}en ligne${RESET}" | tee -a rapport.txt
- IP=$(nslookup $cible | grep "Address"| grep -v "#" |tail -2| head -1|awk '{print $2}')
-	if [ -z "$IP" ]; then
-		printf "%-10s %b\n" "ip:" "${ROUGE}introuvable${RESET}" | tee -a rapport.txt
+echo " " |tee -a "$RAPPORT"
 
-	else
-#printf "%-10s %s\n" "statut:" "${VERT}en ligne${RESET}" | tee -a rapport.txt
-        printf "%-10s %s\n" "ip:" "$IP" | tee -a rapport.txt
-	fi 
-#printf "%-10s %s\n" "ip:" " $IP" | tee -a rapport.txt
-else
-        printf "%-10s %b\n"  "statut:" "${ROUGE} hors ligne${RESET}"| tee -a rapport.txt
-fi
-for port in 80 443 22 21 25; do
-    if nc -zw1 "$cible" "$port" > /dev/null 2>&1; then
-        printf "%-10s %b\n" "port $port:" "${VERT}ouvert${RESET}" | tee -a rapport.txt
-    else
-        printf "%-10s %b\n" "port $port:" "${ROUGE}fermé${RESET}" | tee -a rapport.txt
-    fi
-done
-echo "-----------------------------------" | tee -a rapport.txt
+done < "$CIBLES"
 
-done < cible.txt
+
+echo "==============RESUMÉ FINALE=================" |tee -a "$RAPPORT"
+echo "=================" |tee -a "$RAPPORT"
+printf "%-15s %s\n" "cibles totales:" "$total_cible" |tee -a "$RAPPORT"
+printf "%-15s %s\n" "ip trouvé:" "$ip_trouve" |tee -a "$RAPPORT"
+printf "%-15s %s\n" "port ouvert:" "$port_ouvert" |tee -a "$RAPPORT"
+printf "%-15s %s\n" "erreur:" "$erreur" |tee -a "$RAPPORT"
+echo "============================================" |tee -a "$RAPPORT"
+
+
+echo "=============================================" |tee -a "$RAPPORT"
+echo "Rapport sauvegarde : $RAPPORT"
+echo "---------------------------------------------" |tee -a "$RAPPORT"
