@@ -1,32 +1,62 @@
 # Network Recon Tool
 
-Script Bash de reconnaissance réseau pour identifier la disponibilité, l'adresse IP et les ports ouverts de plusieurs cibles.
+Script Bash de reconnaissance réseau pour identifier la disponibilité, l’adresse IP et les ports ouverts de plusieurs cibles.
 
 ## Fonctionnalités
-- Scan de disponibilité (ping)
-- Résolution DNS (nslookup)
-- Scan de ports (80, 443, 22, 21, 25)
-- Rapport horodaté sauvegardé automatiquement
-- Affichage couleur (vert/rouge)
+
+- Scan de disponibilité avec `ping`
+- Résolution DNS avec `nslookup`
+- Scan de ports avec `nc`
+- Génération automatique d’un rapport horodaté
+- Affichage couleur dans le terminal
+- Analyse de plusieurs cibles à partir d’un fichier
+
+## Ports testés
+
+- 80
+- 443
+- 21
+- 22
+- 24
+- 25
+
+## Fichiers du projet
+
+- `reconx.sh` : script principal
+- `cible.txt` : liste des cibles à scanner
+- `rapport_YYYY-MM-DD_HH-MM-SS.txt` : rapport généré automatiquement
 
 ## Utilisation
 
-1. Ajoute tes cibles dans `cible.txt` (une par ligne)
-2. Lance le script :
-```bash
-./reconx.sh
+1. Ajoute tes cibles dans `cible.txt`, une par ligne
 
-Prérequis
-nslookup : pkg install dnsutils
-netcat : pkg install netcat-openbsd
-Exemple de résultat
+Exemple :
 
-Cible:     google.com
-Statut:    en ligne
-IP:        172.217.23.174
-Port 80:   OUVERT
-Port 443:  OUVERT
+```text
+google.com
+youtube.com
+unimi.it
+8.8.8.8
 
 
-Auteur
-Loic — Étudiant cybersécurité @ Politecnico di Milano
+#Prérequis
+Installer les outils nécessaires :
+Bash
+pkg install dnsutils
+pkg install netcat-openbsd
+
+
+#Exemple de résultat
+
+cible:     google.com
+statut:    online
+ip:        172.217.23.174
+port 80:   OUVERT
+port 443:  OUVERT
+port 21:   FERMÉ
+port 22:   FERMÉ
+
+
+#Auteur
+
+Loic@lelouche

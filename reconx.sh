@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #==========================================
-#Network Recool Tool
+#Network Recon Tool
 #Auteur: Loic
 #Description : Scanner de Reconnaissance reseau
 #==========================================
@@ -14,7 +14,7 @@ RESET='\033[0m'
 
 #____Fichiers______
 
-RAPPORT="rapport.txt"
+RAPPORT="rapport_$(date +%Y-%m-%d_%H-%M-%S).txt"
 CIBLES="cible.txt"
 
 #============================================
@@ -25,7 +25,8 @@ afficher_titre() {
 	echo "====================================="|tee -a $RAPPORT
 	echo "        NETWORK RECOOL TOOL          "|tee -a $RAPPORT
 	echo "====================================="|tee -a $RAPPORT
-	printf "%-10s %s\n" "Date:" "$(date)"
+	printf "%-10s %s\n" "Date:" "$(date)" |tee -a $RAPPORT
+	echo "*************************************"|tee -a $RAPPORT
 	echo " "
 
 }
@@ -37,6 +38,7 @@ scanner_ping() {
 	return 0
 	else
 	printf "%-10s %b\n" "statut:" "${ROUGE}hors ligne${RESET}" |tee -a $RAPPORT
+	erreur=$((erreur +1))
 	return 1
 	fi
 }
@@ -47,6 +49,7 @@ scanner_ip() {
 	printf "%-10s %b\n" "ip:" "${ROUGE}INTROUVABLE${RESET}" |tee -a $RAPPORT
 	else
 	printf "%-10s %b\n" "ip:" "$IP" | tee -a $RAPPORT
+	ip_trouve=$((ip_trouve +1))
 	fi
 }
 
@@ -54,8 +57,10 @@ scanner_port() {
 	for port in 80 443 21 22 24 25; do
 	if nc -zw1 "$1" "$port" > /dev/null 2>&1; then
 	printf "%-10s %b\n" "port $port:" "${VERT}OUVERT${RESET}" |tee -a $RAPPORT
+	port_ouvert=$((port_ouvert + 1))
 	else 
 	printf "%-10s %b\n" "port $port:" "${ROUGE}FERMÉ${RESET}" |tee -a $RAPPORT
+	#port_ouvert=$((port_ouvert + 1))
 	fi
 	done
 }
@@ -70,24 +75,47 @@ scanner_port() {
 	if ! command -v  nc > /dev/null 2>&1; then
 	echo "nc n'est pas installer" | tee -a $RAPPORT
 	fi
+
+#=============================================
+#COMPTEUR
+#=============================================
+total_cible=0
+ip_trouve=0
+port_ouvert=0
+erreur=0
+
+
 #=============================================
 #MAIN
 #=============================================
 afficher_titre
 
 while read cible; do
+
+total_cible=$((total_cible + 1))
+
 echo "----------------------------------------"
 printf "%-10s %b\n" "cible:" "${JAUNE}$cible${RESET}" |tee -a $RAPPORT
 echo "----------------------------------------"
 
 if scanner_ping "$cible"; then
 	scanner_ip "$cible";
-	scanner_port "$cible";
+	scanner_port "$IP";
 fi
 
 echo " " |tee -a $RAPPORT
 
 done <  $CIBLES
+
+
+echo "==============RESUMÉ FINALE=================" |tee -a $RAPPORT
+echo "=================" |tee -a $RAPPORT
+printf "%-15s %s\n" "cibles totales:" "$total_cible" |tee -a $RAPPORT
+printf "%-15s %s\n" "ip trouvé:" "$ip_trouve" |tee -a $RAPPORT
+printf "%-15s %s\n" "port ouvert:" "$port_ouvert" |tee -a $RAPPORT
+printf "%-15s %s\n" "erreur:" "$erreur" |tee -a $RAPPORT
+echo "============================================" |tee -a $RAPPORT
+
 
 echo "=============================================" |tee -a $RAPPORT
 echo "Rapport sauvegarde : $RAPPORT"

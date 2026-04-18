@@ -1,0 +1,1897 @@
+======== NETWORK RECON TOOL =======
+Date       Mon Apr 13 12:45:13 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:         172.217.23.174
+======== NETWORK RECON TOOL =======
+Date       Mon Apr 13 12:47:07 CEST 2026
+Cible:     google.com
+======== NETWORK RECON TOOL =======
+Date       Mon Apr 13 12:49:44 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:         172.217.23.174
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:12:25 CEST 2026
+Cible:     
+statut      hors ligne
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:15:06 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:         142.250.181.174
+---
+Cible:     polimi.it
+statut      hors ligne
+---
+Cible:     ciblebidon123.com
+statut:    en ligne
+ip:         
+---
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:25:23 CEST 2026
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:28:02 CEST 2026
+Cible:     google.com
+statut:    en ligne
+statut :   online
+ip:        172.217.23.174
+ip:         172.217.23.174
+---
+Cible:     polimi.it
+statut      hors ligne
+---
+Cible:     ciblebidon123.com
+statut:    en ligne
+statut :   introuvable
+ip:         
+---
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:32:49 CEST 2026
+Cible:     google.com
+statut:    en ligne
+statut:    en ligne
+ip:        142.250.181.174
+ip:         142.250.181.174
+---
+Cible:     polimi.it
+statut      hors ligne
+---
+Cible:     ciblebidon123.com
+statut:    en ligne
+statut :   introuvable
+ip:         
+---
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:34:11 CEST 2026
+Cible:     google.com
+statut:    en ligne
+statut:    en ligne
+ip:        172.217.168.142
+ip:         172.217.168.142
+---
+Cible:     polimi.it
+statut      hors ligne
+---
+Cible:     ciblebidon123.com
+statut:    en ligne
+statut :   introuvable
+ip:         
+---
+Cible:     youtube.com
+statut:    en ligne
+statut:    en ligne
+ip:        142.251.141.238
+ip:         142.251.141.238
+---
+Cible:     unimi.it
+statut:    en ligne
+statut:    en ligne
+ip:        159.149.53.140
+ip:         159.149.53.140
+---
+Cible:     unimib.it
+statut:    en ligne
+statut :   introuvable
+ip:         
+---
+Cible:     
+statut      hors ligne
+---
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:36:17 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:        142.250.181.174
+ip:         142.250.181.174
+-----------------------------------
+Cible:     polimi.it
+statut      hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    en ligne
+statut :   introuvable
+ip:         
+-----------------------------------
+Cible:     youtube.com
+statut:    en ligne
+ip:        142.251.141.238
+ip:         142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    en ligne
+ip:        159.149.53.140
+ip:         159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    en ligne
+statut :   introuvable
+ip:         
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:39:02 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:        172.217.23.174
+-----------------------------------
+Cible:     polimi.it
+statut:     hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    en ligne
+ip:        introuvable
+-----------------------------------
+Cible:     youtube.com
+statut:    en ligne
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    en ligne
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    en ligne
+ip:        introuvable
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:48:14 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:        142.250.181.174
+-----------------------------------
+Cible:     polimi.it
+statut:     hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    en ligne
+ip:        introuvable
+-----------------------------------
+Cible:     youtube.com
+statut:    en ligne
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    en ligne
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    en ligne
+ip:        introuvable
+-----------------------------------
+statut:    en ligne
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:55:19 CEST 2026
+Cible:     google.com
+statut:    \033[0;32men ligne
+ip:        142.250.181.174
+-----------------------------------
+Cible:     polimi.it
+statut:    \033[0;31m hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    \033[0;32men ligne
+ip:        \033[0;31mintrouvable
+-----------------------------------
+Cible:     youtube.com
+statut:    \033[0;32men ligne
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    \033[0;32men ligne
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    \033[0;32men ligne
+ip:        \033[0;31mintrouvable
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:56:04 CEST 2026
+Cible:     google.com
+statut:    en ligne
+ip:        142.251.140.110
+-----------------------------------
+Cible:     polimi.it
+statut:     hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    en ligne
+ip:        introuvable
+-----------------------------------
+Cible:     youtube.com
+statut:    en ligne
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    en ligne
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    en ligne
+ip:        introuvable
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 10:59:26 CEST 2026
+Cible:     google.com
+statut:    \033[0;32men ligne
+ip:        172.217.23.174
+-----------------------------------
+Cible:     polimi.it
+statut:    \033[0;31m hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    \033[0;32men ligne
+ip:        \033[0;31mintrouvable
+-----------------------------------
+Cible:     youtube.com
+statut:    \033[0;32men ligne
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    \033[0;32men ligne
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    \033[0;32men ligne
+ip:        \033[0;31mintrouvable
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 11:01:21 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne
+ip:        142.250.181.174
+-----------------------------------
+Cible:     polimi.it
+statut:    [0;31m hors ligne
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    [0;32men ligne
+ip:        [0;31mintrouvable
+-----------------------------------
+Cible:     youtube.com
+statut:    [0;32men ligne
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    [0;32men ligne
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    [0;32men ligne
+ip:        [0;31mintrouvable
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 11:04:45 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne[0m
+ip:        172.217.23.174
+-----------------------------------
+Cible:     polimi.it
+statut:    [0;31m hors ligne[0m
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+-----------------------------------
+Cible:     youtube.com
+statut:    [0;32men ligne[0m
+ip:        142.251.141.238
+-----------------------------------
+Cible:     unimi.it
+statut:    [0;32men ligne[0m
+ip:        159.149.53.140
+-----------------------------------
+Cible:     unimib.it
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 11:39:11 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne[0m
+ip:        172.217.168.142
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+-----------------------------------
+Cible:     polimi.it
+statut:    [0;31m hors ligne[0m
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+-----------------------------------
+Cible:     youtube.com
+statut:    [0;32men ligne[0m
+ip:        142.251.141.238
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimi.it
+statut:    [0;32men ligne[0m
+ip:        159.149.53.140
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimib.it
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Tue Apr 14 11:45:24 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne[0m
+ip:        142.251.141.238
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     polimi.it
+statut:    [0;31m hors ligne[0m
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     youtube.com
+statut:    [0;32men ligne[0m
+ip:        142.251.141.238
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimi.it
+statut:    [0;32men ligne[0m
+ip:        159.149.53.140
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimib.it
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Wed Apr 15 19:21:43 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne[0m
+ip:        192.178.203.138
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     polimi.it
+statut:    [0;31m hors ligne[0m
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     youtube.com
+statut:    [0;32men ligne[0m
+ip:        172.217.23.78
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimi.it
+statut:    [0;32men ligne[0m
+ip:        159.149.53.140
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimib.it
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+======== NETWORK RECON TOOL =======
+Date       Wed Apr 15 19:43:49 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne[0m
+ip:        172.217.23.78
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     polimi.it
+statut:    [0;31m hors ligne[0m
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     ciblebidon123.com
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     youtube.com
+statut:    [0;32men ligne[0m
+ip:        172.217.23.78
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimi.it
+statut:    [0;32men ligne[0m
+ip:        159.149.53.140
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+Cible:     unimib.it
+statut:    [0;32men ligne[0m
+ip:        [0;31mintrouvable[0m
+port 80:   [0;31mfermé[0m
+port 443:  [0;31mfermé[0m
+port 22:   [0;31mfermé[0m
+port 21:   [0;31mfermé[0m
+port 25:   [0;31mfermé[0m
+-----------------------------------
+nslookup n'est pas installer
+nslookup n'est pas installer
+nslookup n'est pas installer
+nslookup n'est pas installer
+nslookup n'est pas installer
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        142.251.141.238
+port:      [0;32mOUVERT[0m
+port:      [0;32mOUVERT[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31mhors ligne\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        172.217.23.78
+port:      [0;32mOUVERT[0m
+port:      [0;32mOUVERT[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    \033[0;32monline\033[0m
+ip:        159.149.53.140
+port:      [0;32mOUVERT[0m
+port:      [0;32mOUVERT[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    \033[0;32monline\033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+port:      [0;31mFERMÉ[0m
+ 
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        142.251.141.238
+port:      [0;32mOUVERT[0m
+port:      [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31mhors ligne\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        172.217.23.78
+port:      [0;32mOUVERT[0m
+port:      [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    \033[0;32monline\033[0m
+ip:        159.149.53.140
+port:      [0;32mOUVERT[0m
+port:      [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    \033[0;32monline\033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        172.217.168.142
+por :      [0;32mOUVERT[0m
+por :      [0;32mOUVERT[0m
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31mhors ligne\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32monline\033[0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        142.250.181.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31m hors lign e\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31m hors ligne\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31m hors ligne\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+=============================================
+---------------------------------------------
+======== NETWORK RECON TOOL =======
+Date       Thu Apr 16 00:08:57 CEST 2026
+Cible:     google.com
+statut:    [0;32men ligne[0m
+ip:        142.251.141.238
+port 80:   [0;32mouvert[0m
+port 443:  [0;32mouvert[0m
+port 22:   [0;31mfermé[0m
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    \033[0;31m hors ligne\033[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    \033[0;32m online \033[0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    \033[0;32m online \033[0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32m online [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31m hors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;32m online [0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32m online [0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32m online [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;32m online [0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;32m online [0m
+ip:        
+\033[0;31mINTROUVABLE\033[0m 
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;32monline [0m
+ip:        [0;31mINTROUVABLE[0m
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;32monline [0m
+ip:        [0;31mINTROUVABLE[0m
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;32monline [0m
+ip:        [0;31mINTROUVABLE[0m
+port 80:   [0;31mFERMÉ[0m
+port 443:  [0;31mFERMÉ[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 1
+port ouvert: port_ouvert
+erreur:    1
+============================================
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 2
+port ouvert: port_ouvert
+erreur:    2
+============================================
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 3
+port ouvert: port_ouvert
+erreur:    3
+============================================
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 4
+port ouvert: port_ouvert
+erreur:    4
+============================================
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 5
+port ouvert: port_ouvert
+erreur:    5
+============================================
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 6
+port ouvert: port_ouvert
+erreur:    6
+============================================
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+cibles totales: 
+ip trouvé: 7
+port ouvert: port_ouvert
+erreur:    7
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 
+ip trouvé: 7
+port ouvert: port_ouvert
+erreur:    7
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.168.142
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        142.251.141.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 7
+port ouvert: 7
+erreur:    7
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.78
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 3
+port ouvert: 12
+erreur:    0
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:23:54 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 0
+port ouvert: 12
+erreur:    4
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:25:46 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 3
+port ouvert: 12
+erreur:    4
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:28:44 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 9
+port ouvert: 0
+erreur:    4
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:38:12 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 6
+port ouvert: 0
+erreur:    4
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:38:59 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 6
+port ouvert: 0
+erreur:    4
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:40:40 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé: 3
+port ouvert: 6
+erreur:    4
+============================================
+=============================================
+---------------------------------------------
+=====================================
+        NETWORK RECOOL TOOL          
+=====================================
+Date:      Sat Apr 18 08:43:00 CEST 2026
+*************************************
+cible:     [0;33mgoogle.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.23.174
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33mpolimi.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mciblebidon123.com[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33myoutube.com[0m
+statut:    [0;32monline [0m
+ip:        172.217.169.238
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimi.it[0m
+statut:    [0;32monline [0m
+ip:        159.149.53.140
+port 80:   [0;32mOUVERT[0m
+port 443:  [0;32mOUVERT[0m
+port 21:   [0;31mFERMÉ[0m
+port 22:   [0;31mFERMÉ[0m
+port 24:   [0;31mFERMÉ[0m
+port 25:   [0;31mFERMÉ[0m
+ 
+cible:     [0;33munimib.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+cible:     [0;33mbologne.it[0m
+statut:    [0;31mhors ligne[0m
+ 
+==============RESUMÉ FINALE=================
+=================
+cibles totales: 7
+ip trouvé:     3
+port ouvert:    6
+erreur:         4
+============================================
+=============================================
+---------------------------------------------
