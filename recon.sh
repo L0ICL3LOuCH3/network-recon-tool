@@ -106,8 +106,8 @@ printf "%-10s %b\n" "cible:" "${JAUNE}$cible${RESET}" |tee -a "$RAPPORT"
 echo "----------------------------------------"
 
 if scanner_ping "$cible"; then
-	scanner_ip "$cible";
 	reconnaissance_ip "$cible"
+	scanner_ip "$cible"
 	scanner_port "$IP";
 fi
 
